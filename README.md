@@ -17,3 +17,7 @@
 * /post  (para envio de dados)
 * /delete/id  (deletando registro correspondete ao id)
 * /put/id  (atualizando registro correspondete ao id)
+
+### mais
+* /createBD (para criar uma tabela teste dentro do banco de dados)
+
